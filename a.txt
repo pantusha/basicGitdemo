@@ -2,14 +2,10 @@ practicing got basic commands
 practicing got basic commands - line 2
 practicing got basic commands -line 3
 practicing got basic commands -line 4
-<<<<<<< HEAD
 practicing got basic commands - line 1 by person1
-practicing got basic commands - line 2 by person 2
-practicing got basic commands - line 3 by person 3
-practicing got basic commands - line 4 by person 4
-=======
-practicing got basic commands - line 1 by person 2
-practicing got basic commands - line 2 by person 2
-practicing got basic commands - line 3 by person 2
-practicing got basic commands - line 4 by person 2
->>>>>>> 2633e2462c98e053358539394a42b9bc06425d27
+practicing got basic commands - line 2 by person 1
+practicing got basic commands - line 3 by person 1
+practicing got basic commands - line 4 by person 1
+
+
+Dont SEe Chages as in for person 2
