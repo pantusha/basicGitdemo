@@ -2,17 +2,16 @@ Removed the content From file
 
 First Line in File C added in main brancg
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 FRESH CONTENT I   C FILE IN MAIN branch
 =======
 =======
->>>>>>> 2a5002c989e6a90feaf842b66b9d96191efc66b9
+
 
 Second line in 
 Trhird line
 Fiurth line
-<<<<<<< HEAD
->>>>>>> 2a5002c (removed content from file c)
+
+
 =======
->>>>>>> 2a5002c989e6a90feaf842b66b9d96191efc66b9
+
