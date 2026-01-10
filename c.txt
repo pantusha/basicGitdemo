@@ -2,3 +2,4 @@ Removed the content From file
 
 First Line in File C added in main brancg
 
+FRESH CONTENT I   C FILE IN MAIN branch
