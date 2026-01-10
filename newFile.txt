@@ -7,21 +7,12 @@ First Line in File C added in main brancg
 FRESH CONTENT I   C FILE IN MAIN branch
 =======
 =======
-<<<<<<< HEAD
-FRESH CONTENT I   C FILE IN MAIN branch
-=======
-=======
 >>>>>>> 2a5002c989e6a90feaf842b66b9d96191efc66b9
->>>>>>> origin/usha
 
 Second line in 
 Trhird line
 Fiurth line
 <<<<<<< HEAD
->>>>>>> origin/usha
-=======
-<<<<<<< HEAD
 >>>>>>> 2a5002c (removed content from file c)
 =======
 >>>>>>> 2a5002c989e6a90feaf842b66b9d96191efc66b9
->>>>>>> origin/usha
